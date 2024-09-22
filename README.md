@@ -1,23 +1,18 @@
-DOCTYPE html>
-
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
   <head>
-
-    <title>Hello, World!</title>
-
-    <link rel="stylesheet" href="styles.css" />
-
+    <meta charset="UTF-8">
+    <title>My First Webpage</title>
   </head>
 
   <body>
-
-      <h1 class="title">Hello World! </h1>
-
-      <p id="currentTime"></p>
-
-      <script src="script.js"></script>
-
+    <h1>how are you??👋🏻</h1>
+    
+    
+    <button type="submit">not fine 😟</button>
+    <a href="https://assets.onecompiler.app/42ryuv2wx/42ryuavg8/images.jpeg">badiya 🤠<>
+      
+    </style>
+    
   </body>
-
-</html>https://naitikkhandelwal1.github.io/Naitik0000/
+</html>
