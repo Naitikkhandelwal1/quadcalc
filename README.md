@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -12,7 +12,4 @@
     <button type="submit">not fine 😟</button>
     <a href="https://assets.onecompiler.app/42ryuv2wx/42ryuavg8/images.jpeg">badiya 🤠<>
       
-    </style>
     
-  </body>
-</html>
